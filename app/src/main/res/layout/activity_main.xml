@@ -32,4 +32,12 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="95dp"
         android:id="@+id/checkedTextView" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="98dp"
+        android:id="@+id/spinner" />
 </RelativeLayout>
